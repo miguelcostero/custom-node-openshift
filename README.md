@@ -14,7 +14,7 @@ Create a nodejs application (you can name it anything via -a)
 
 Add this `github custom-node-openshift` repository
 
-    cd palinode
+    cd custom
     git remote add custom -m master git://github.com/miguelcostero/custom-node-openshift.git
     git pull -s recursive -X theirs custom master
 
